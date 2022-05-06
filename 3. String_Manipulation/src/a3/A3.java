@@ -2,12 +2,6 @@ package a3;
 
 import java.util.Arrays;
 
-/* NetIds: ss2725
- * What I thought about this assignment:
- * I like TODO4. The answer I can from the hit is so elegant!
- *
- *  */
-
 /** A collection of static functions manipulating strings. <br>
  * All methods assume that String parameters are non-null.
  *
@@ -42,12 +36,6 @@ public class A3 {
      *
      * We give complete test cases.
      *  */
-
-    /** Replace "-1" by the time you spent on A3 in hours.<br>
-     * Example: for 3 hours 15 minutes, use 3.25<br>
-     * Example: for 4 hours 30 minutes, use 4.50<br>
-     * Example: for 5 hours, use 5 or 5.0 */
-    public static double timeSpent= 2.5;
 
     /** Return true iff the middle characters of s are the same. <br>
      * Note: If s has an odd number of chars, there is ONE middle char, so return true.<br>
