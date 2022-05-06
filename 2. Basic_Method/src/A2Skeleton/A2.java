@@ -1,21 +1,4 @@
 package A2Skeleton;
-/* Please provide the following information.
- * For items 1 and 2, if two people, separate entries by a comma.
- * For items 3, 4, and 5, use the first line for the first person AND
- *     the second line for the second person if there is one.
- *
- * 1. Name(s): Sikai Shen
- * 2. Netid(s): ss2725
- * 3. Took CS1110 (yes or no): yes
- * 3. Took CS1110 (yes or no):
- * 4: Took CS1112 (yes or no): no
- * 4: Took CS1112 (yes or no): 
- * 5. I know Java (yes or no): no
- * 5. I know Java (yes or no):
- * 6. Tell us what you thought of this assignment: Really interesting. I enjoy doing the works.
- *
- *
- */
 
 /** This class contains simple methods for you to learn<br>
  * Java syntax and semantics. Class A2Test contains all the test<br>
@@ -35,12 +18,6 @@ package A2Skeleton;
  *
  * @author david gries */
 public class A2 {
-
-    /** Replace "-1" by the time you spent on A2 in hours.<br>
-     * Example: for 1 hours 15 minutes, use 1.25<br>
-     * Example: for 4 hours 30 minutes, use 4.50<br>
-     * Example: for 5 hours, use 5 or 5.0 */
-    public static double timeSpent= 2;
 
     /** Return the sum of the values 6, 7, 8 */
     public static int sum1() {
