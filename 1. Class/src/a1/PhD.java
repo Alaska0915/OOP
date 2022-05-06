@@ -1,6 +1,4 @@
 package a1;
-/** NetId: ss2725. Time spent: 4 hours, 03 minutes. <br>
- * It's a really funny assignment, and I really enjoy my time doing it */
 
 /** An instance maintains info about the PhD of a person. */
 public class PhD {
